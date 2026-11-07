@@ -3,5 +3,5 @@
 ## Ingredients
 * avocado
 * 2 limes
-* salt and peper
+* salt
 ## Instructions
